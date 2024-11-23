@@ -1,0 +1,36 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+certifi==2022.12.7
+daal
+daal4py
+django==2.2.28
+intel-openmp
+libopencv
+libpng-bins
+libtiff
+mkl
+mkl_fft==1.0.6
+mkl-random
+numpy==1.22.0
+opencv-python
+openssl-python
+pillow==9.3.0
+pip==21.1
+pydot==1.4.1
+pyparsing==2.2.0
+graphviz
+pytz==2018.4
+scikit-learn==0.20.0
+scipy==1.1.0
+setuptools==65.5.1
+six==1.12.0
+simple-sqlite
+tbb
+tbb4py
+Tcl
+tk
+vc
+wheel==0.38.1
+wincertstore==0.2
+python-xz
